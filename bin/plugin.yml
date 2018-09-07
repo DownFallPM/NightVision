@@ -1,0 +1,9 @@
+name: NightVision
+version: 1.0
+author: ImAstroPvP
+main: me.ImAstroPvP.firstplugin.main
+
+commands:
+  nightvision:
+    aliases: [nv]
+    description: Enables NightVision effects
